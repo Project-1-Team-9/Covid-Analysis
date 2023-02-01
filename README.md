@@ -1,5 +1,6 @@
-# Covid-Analysis
-# Covid-19 Highlights, California 2019-2020
+# *Covid-Analysis*
+
+# Covid-19 Highlights, California 2020-2021
 
 __Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.__
 
@@ -28,12 +29,14 @@ fig.2 Graph Question 1A
 The graph spikes during summer months as COVID-19 spread through California. COVID-19 safety protocols decreased deaths.  A COVID-19 death surge became evident during the holiday season.
 
 fig.3 Graph Question 1B
+
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/Deaths.vs.ICU.Bed.Utilization.png" width="50%" height="50%">
 
 #### Deaths vs ICU Bed Utilization & Staffing Shortage vs Daily Death Correlation
 COVID-19 deaths directly affected ICU bed occupancy. The graph exhibits an exponential relationship. As the COVID-19 ICU bed occupancy increase, the number of deaths increased.
 
 fig.4 Graph Question 1C.1 of 2 
+
 
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/staffing.shortage.vs.daily.death.correlation.png" width="50%" height="50%">
 
@@ -79,7 +82,7 @@ Fig.9 Graph Question 3B
 
 ### Suspected vs Confirmed at Admission
 
-The stacked bar graph displays the total number of COVID-19 related hospital admissions based on confirmed or suspected status. Majority of admissions were from previously confirmed COVID-19 patients. The age group most affected ranged from 60-69.
+The clustered bar graph displays the total number of COVID-19 related hospital admissions based on confirmed or suspected status. Majority of admissions were from previously confirmed COVID-19 patients. The age group most affected ranged from 60-69.
 
 ### Summary
 The biggest spike in hospital deaths was after the 2020 holidays. During this spike, ICU bed utilization was high for COVID, and there was a spike in staffing shortages reported. There was likely insufficient treatment available for all the patients, leading to higher-than-expected deaths. Over 70% of hospitalizations for COVID were for patients 50 and older. The age group 60-69 had the highest number of admissions during this time period.
