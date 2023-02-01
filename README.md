@@ -1,5 +1,7 @@
 # *Covid-Analysis*
 
+Presentation: https://prezi.com/view/Tt3J1NcGT5DLiWj3aTtP/
+
 # Covid-19 Highlights, California 2020-2021
 
 __Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.__
