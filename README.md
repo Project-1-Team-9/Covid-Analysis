@@ -13,8 +13,8 @@ Protection from the virus is gained by maintaining distance from other individua
 Infection spreads through small liquid particles expelled through mouth and nose of infected
 Human beings. Infecting particles range from larger respiratory droplets to smaller aerosols.
 
-Fig.1 
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/bokeh_plot.png"  width="50%" height="50%">
+Fig.1 
 
 #### COVID-19 Death Visual State Comparison
 This map compares the maximum daily reported hospital COVID deaths
@@ -24,28 +24,26 @@ __Question 1__
 
 ### How were hospitals affected by COVID-19 deaths?
 
-fig.2 Graph Question 1A
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/COVID19.daily.hospital.reported.deaths.over.2020.2021.png" width="50%" height="50%">
+Fig.2 Graph Question 1A
 
 #### COVID-19 Daily Hospital-Reported Deaths Over 2020-2021 CA
 The graph spikes during summer months as COVID-19 spread through California. COVID-19 safety protocols decreased deaths.  A COVID-19 death surge became evident during the holiday season.
 
-fig.3 Graph Question 1B
-
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/Deaths.vs.ICU.Bed.Utilization.png" width="50%" height="50%">
+Fig.3 Graph Question 1B
 
 #### Deaths vs ICU Bed Utilization & Staffing Shortage vs Daily Death Correlation
 COVID-19 deaths directly affected ICU bed occupancy. The graph exhibits an exponential relationship. As the COVID-19 ICU bed occupancy increase, the number of deaths increased.
-
-fig.4 Graph Question 1C.1 of 2 
-
+ 
 
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/staffing.shortage.vs.daily.death.correlation.png" width="50%" height="50%">
+Fig.4 Graph Question 1C.1 of 2
 
 #### Staffing Shortage vs Daily Death Correlation
 
-fig.5 Graph Question 1C.2 of 2
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/no.staffing.shortage.vs.daily.death.correlation.png" width="50%" height="50%">
+Fig.5 Graph Question 1C.2 of 2
 
 #### No Staffing Shortage vs Daily Death Correlation
 
@@ -55,15 +53,15 @@ __Question 2__
 
 ### How did COVID-19 impact hospital occupancy?
 
-fig.6 Graph Question 2A
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/covid.hospital.bed.occupancy.png" width="50%" height="50%">
+Fig.6 Graph Question 2A
 
 #### COVID-19 Hospital Bed Occupancy
 
 This stacked bar graph shows the total COVID-19 inpatient beds compared to the number of ICU beds occupied by COVID-19 positive patients over time. Notice that the number of ICU beds in the Junaray 2021 does not seem to increase as much as you might think it would. The max number of ICU COVID-19 beds is 4939 while the max number of COVID-19 inpatient beds is 30,334.
 
-fig.7 Graph Question 2B
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/covid.icu.bed.utilization.over.time.png" width="50%" height="50%">
+Fig.7 Graph Question 2B
 
 #### COVID-19 ICU Bed Utilization Over Time
 This scatter plot shows the COVID-19 ICU bed utilization as a percent over time. It is calculated by dividing the number of COVID-19 ICU patients by the total number of ICU patients. The maximum COVID-19 ICU utilization is 55.37% on January 8, 2021. The first spike is relatively small compared to the first spike in other charts. This means hospitals had to reserve ICU beds for other treatments to the detriment of COVID patients.
@@ -72,15 +70,15 @@ __Question 3__
 
 ### Which age group had the highest rate of COVID-19 hospital admissions?
 
-Fig.8 Graph Question 3A
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/Screenshot%202023-01-31%20162437.png" width="50%" height="50%">
+Fig.8 Graph Question 3A
 
 #### Confirmed COVID-19 Hospital Admissions by Age Group
 
 The pie chart describes the age breakdown of COVID-19 hospital admissions. Hospitals were impacted by older aged covid patients. 71.6% of hospital admissions were comprised of adults 50 and older. The largest single demographic of hospital admissions were adults aged 60-69.
 
-Fig.9 Graph Question 3B
 <img src="https://github.com/Project-1-Team-9/Covid-Analysis/blob/dd_branch/images/suspected.vs.confirmed.at.admission.png" width="50%" height="50%">
+Fig.9 Graph Question 3B
 
 ### Suspected vs Confirmed at Admission
 
